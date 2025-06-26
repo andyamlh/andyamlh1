@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Estilo de Vida de Michel</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <header>
+        <h1>Estilo de Vida de Michel</h1>
+    </header>
+
+    <section class="section">
+        <h2>Familia</h2>
+        <p>Vivo con mi mam� y mi hermana.</p>
+        <img src="https://images.app.goo.gl/YWXhATCn3PrS6Nbg8" alt="Foto de familia" class="image">
+    </section>
+
+    <section class="section">
+        <h2>Actividades</h2>
+        <ul>
+            <alt>Practico nataci�n regularmente.</li>
+            <img src="https://images.app.goo.gl/5qYCZoo4MYypaHoA6" alt="Nataci�n" class="image">
+            <alt>Me encanta ver series en mi tiempo libre.</li>
+            <img src="https://images.app.goo.gl/UMj8eTCwAauyWJUX8" alt="Viendo series" class="image">
+            <alt>Actualmente asisto a un curso para el examen.</li>
+            <img src="https://images.app.goo.gl/PP4NbncYAuCNLCnMA" alt="Curso" class="image">
+            <alt>Disfruto mucho dormir y descansar.</li>
+            <img src="https://images.app.goo.gl/FH3Gp2ixoeB76Rds9" alt="Durmiendo" class="image">
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Dibujar</li>
+            <img src="https://images.app.goo.gl/fd4Y8N1F2gtaeyuh7" alt="Dibujando" class="image">
+            <li>Cocinar</li>
+            <img src="https://images.app.goo.gl/2LAo6AiXoVGxvmym9" alt="Cocinando" class="image">
+            <li>Jugar voleibol</li>
+            <img src="https://images.app.goo.gl/einUjwz1L3RJo5US9" alt="Jugando voleibol" class="image">
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Buenos H�bitos</h2>
+        <ul>
+            <li>Me levanto temprano</li>
+            <li>Como bien</li>
+            <li>Soy responsable</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Malos H�bitos</h2>
+        <ul>
+            <li>Llego tarde a la escuela</li>
+            <li>Veo muchas series</li>
+            <li>Avento mi ropa por donde sea</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Comidas Favoritas</h2>
+        <ul>
+            <li>Enchiladas</li>
+            <img src="enchiladas.jpg" alt="Enchiladas" class="image">
+            <li>Nopalitos rellenos de queso</li>
+            <img src="nopalitos.jpg" alt="Nopalitos rellenos de queso" class="image">
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Estilo de Vida de Michel</p>
+    </footer>
+</body>
+<style>body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6a0dad;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.section {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+.image {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display: block;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #6a0dad;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}</style><script>/Here write your javascript code/
+</script></html>
